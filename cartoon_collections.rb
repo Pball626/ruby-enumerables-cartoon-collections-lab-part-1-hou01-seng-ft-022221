@@ -3,8 +3,7 @@ def greet_characters(array)
   # Use `each` to enumerate over the provided array
   #
   # Print a custom greeting for each element
-  array.each_with_index  { |"Hello"(0)(1)(2)"!"| }
-  #do |element|
+  array.each do |element|
     text = "Hello Dopey!"
     puts text
   end
