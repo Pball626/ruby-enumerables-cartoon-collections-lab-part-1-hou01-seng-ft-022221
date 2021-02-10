@@ -7,6 +7,7 @@ def greet_characters(array)
     text = "Hello |element|!"
     puts text
   end
+  array
 end
     
 
